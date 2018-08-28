@@ -4,5 +4,12 @@ function theBeatlesPlay(people, instrum) {
   for (let i = 0; i < people.length; i++) {
     arr.push(`${people[i]} plays the ${instrum[i]}`);
   }
-  return arrl
+  return arr;
+}
+
+function johnLennonFacts(arr) {
+  let i = 0;
+  while (i < arr.length) {
+    arr[i] += "!!!";
+  }
 }
