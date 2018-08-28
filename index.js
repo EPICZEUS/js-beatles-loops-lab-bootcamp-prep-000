@@ -8,7 +8,7 @@ function theBeatlesPlay(people, instrum) {
 }
 
 function johnLennonFacts(arr) {
-  let i = 0;
+  let i = 0, arr = p[];
   while (i < arr.length) {
     arr[i++] += "!!!";
   }
