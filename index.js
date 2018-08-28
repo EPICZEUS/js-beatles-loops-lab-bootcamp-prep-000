@@ -8,11 +8,11 @@ function theBeatlesPlay(people, instrum) {
 }
 
 function johnLennonFacts(arr) {
-  let i = 0, arr = p[];
+  let i = 0, array = [];
   while (i < arr.length) {
-    arr[i++] += "!!!";
+    array.push(arr[i++] + "!!!");
   }
-  return arr;
+  return array;
 }
 
 function iLoveTheBeatles(n) {
